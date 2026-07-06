@@ -40,6 +40,7 @@ Outside of code, I'm always learning something new — whether it's a new tool, 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+
 ---
 
 ## 📊 github stats
@@ -54,6 +55,7 @@ Outside of code, I'm always learning something new — whether it's a new tool, 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ayumsc203-arch&theme=tokyonight&hide_border=true"/>
+  https://github.com/ayumsc203-arch
 </p>
 
 ---

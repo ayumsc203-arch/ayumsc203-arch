@@ -43,21 +43,22 @@ Outside of code, I'm always learning something new — whether it's a new tool, 
 
 ---
 
-## 📊 github stats
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayumsc203-arch&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayumsc203-arch&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayumsc203-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayumsc203-arch&theme=tokyonight&hide_border=true" />
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayumsc203-arch&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-## 🤝 connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-sindha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D97757?style=flat-square&logo=firefox&logoColor=white)](https://ayumsc203-arch.github.io/)
 
 ---
 
-<p align="center">💼 open to work · 📍 Gujarat, India · ⚡ let's automate something cool</p>
+## 🤝 Connect
 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-sindha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D97757?style=flat-square&logo=firefox&logoColor=white)](https://ayumsc203-arch.github.io/)

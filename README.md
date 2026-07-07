@@ -55,6 +55,10 @@ Outside of code, I'm always learning something new — whether it's a new tool, 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ayumsc203-arch&theme=tokyonight&hide_border=true" />
 </p>
+</p>
+[![GitHub Streak](https://streak-stats.demolab.com?...)](https://git.io/streak-stats)
+## 🤝 connect
+
 
 ---
 

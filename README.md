@@ -44,7 +44,11 @@ Outside of code, I'm always learning something new — whether it's a new tool, 
 ---
 
 ## 📊 github stats
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayumsc203-arch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🤝 connect
 

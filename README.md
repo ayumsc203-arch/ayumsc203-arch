@@ -42,6 +42,14 @@ Outside of code, I'm always learning something new — whether it's a new tool, 
 
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayumsc203-arch&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayumsc203-arch&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayumsc203-arch&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📊 GitHub Stats
 

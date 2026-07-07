@@ -45,18 +45,6 @@ Outside of code, I'm always learning something new — whether it's a new tool, 
 
 ## 📊 github stats
 
-<p align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayumsc203-arch&theme=tokyonight&hide_border=true"/>
-  https://github.com/ayumsc203-arch
-</p>
-
----
 
 ## 🤝 connect
 

@@ -64,10 +64,6 @@ Outside of code, I'm always learning something new — whether it's a new tool, 
   <img src="https://streak-stats.demolab.com?user=ayumsc203-arch&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🤝 connect
-
-
----
 
 ## 🤝 Connect
 

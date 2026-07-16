@@ -41,7 +41,6 @@ Outside of code, I'm always learning something new — whether it's a new tool, 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=ayumsc203-arch&color=blueviolet&style=flat-square)
 
 
 
